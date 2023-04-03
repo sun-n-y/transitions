@@ -1,14 +1,1 @@
-/* transform */
-
-.box {
-  height: 100px;
-  width: 100px;
-  background-color: olive;
-  transform: translateX(200px);
-}
-
-h1 {
-  border: 1px solid rebeccapurple;
-  transform-origin: bottom left;
-  transform: rotateX(180deg);
-}
+/* transform and transition example */
